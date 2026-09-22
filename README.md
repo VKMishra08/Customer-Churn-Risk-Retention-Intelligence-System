@@ -69,9 +69,6 @@ The dashboard then provides:
 
 ## 🏗️ System Architecture
 
-<p align="center">
-  <img src="assets/system_architecture.png" width="1000" alt="Customer Churn System Architecture">
-</p>
 
 ### Architecture Flow
 
@@ -225,6 +222,7 @@ Dashboard KPIs
 | 🐙 GitHub          | Source-code hosting       |
 
 📂 Project Structure
+
 Customer-Churn-Risk-Retention-Intelligence-System/
 │
 ├── app.py
@@ -247,6 +245,7 @@ Customer-Churn-Risk-Retention-Intelligence-System/
 └── exports/
 
 📊 Example Customer Risk Output
+
 Customer ID        : CUST-1045
 Tenure             : 8 Months
 Contract           : Month-to-Month
